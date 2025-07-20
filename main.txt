@@ -1,4 +1,5 @@
 Title:Coolie
 Director:LokeshKanagaraj
 Hero:Rajini
-Release date:13-08-2025
+heroine:Pooja
+Release date:14-08-2025
